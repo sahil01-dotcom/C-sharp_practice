@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>C__practice</RootNamespace>
     <AssemblyName>C# practice</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Program</StartupObject>
+    <StartupObject>if_statement</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,6 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="01_DataTypes.cs" />
+    <Compile Include="02_Input_Data.cs" />
+    <Compile Include="03_Operators.cs" />
+    <Compile Include="05_if_conditional.cs" />
+    <Compile Include="loops\for_loops.cs" />
+    <Compile Include="04_MultipleOperators.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -3,7 +3,7 @@ public class if_statement
 {
     public static void Main(string[] args)
     {
-        Console.Write("Enter your age: ");
+        Console.Write("How Old You Are: ");
         int age = int.Parse(Console.ReadLine());
 
         if (age >= 18)
