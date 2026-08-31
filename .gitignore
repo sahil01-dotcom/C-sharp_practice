@@ -362,3 +362,9 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /07_else-if_Conditional.cs
+/06_else_Conditonal.cs
+/07_else-if_Conditional.cs
+/08_Swith_statement.cs
+/09_for_loop.cs
+/10_while_loop.cs
+/06_else_Conditonal.cs
