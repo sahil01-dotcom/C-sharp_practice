@@ -1,5 +1,5 @@
 ﻿using System;
-public class MultipleOperators
+public class _04_MultipleOperators
  {
     public static void Main(string[] args)
     {
