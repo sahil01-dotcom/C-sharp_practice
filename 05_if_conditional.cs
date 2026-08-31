@@ -1,5 +1,5 @@
 ﻿using System;
-public class if_statement
+public class _05_if_statement
 {
     public static void Main(string[] args)
     {
