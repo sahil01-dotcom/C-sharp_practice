@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class operators
+public class _03_operators
 {
     public static void Main(string[] args)
     {
