@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class  pokemonDetails
+public class  _02_pokemonDetails
 {
     public static void Main(string[] args)
     {
