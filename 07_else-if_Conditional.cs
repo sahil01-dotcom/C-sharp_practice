@@ -1,6 +1,6 @@
 ﻿//Check whether the student is pass or fail
 using System;
-public class pass_fail_Grade
+public class _07_pass_fail_Grade
 {
     public static void Main(string[] args)
      {
