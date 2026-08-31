@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class Program
+public class _01_DataTypes
 {
     public static void Main(string[] args)
     {
