@@ -4,7 +4,7 @@
     public static void Main(string[] args)
     {
         int i = 1;
-        // Display the numbers from 1 to 10 using a while loop
+        
         while (i <= 10)
         {
             Console.WriteLine(i);
